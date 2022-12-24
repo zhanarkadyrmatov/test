@@ -1,0 +1,26 @@
+[
+  {
+    "id": 12,
+    "name": "React js",
+    "question": 15,
+    "clock": 30,
+    "language": "Русский",
+    "color": "#abe6fb"
+  },
+  {
+    "id": 10,
+    "name": "HTML5",
+    "question": 15,
+    "clock": 15,
+    "language": "Русский",
+    "color": "#fdc127"
+  },
+  {
+    "id": 11,
+    "name": "CSS3",
+    "question": 15,
+    "clock": 20,
+    "language": "Русский",
+    "color": "#e1e7fe"
+  }
+]

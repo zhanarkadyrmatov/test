@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "ball": 2,
+    "title": "Чем свойства отличаются от состояний?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Состояния можно изменять, свойства нельзя",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Свойства можно изменять, состояния нельзя",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Состояния для работы со значениями, свойства для работы с функциями",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "Свойства для работы со значениями, состояния для работы с функциями",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ball": 2,
+    "title": "Какой метод отвечает за вывод информации через React JS компонент?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "react",
+        "abvg": "А"
+      },
+      {
+        "tuura": true,
+        "text": "render",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "print",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "console",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ball": 2,
+    "title": "React JS – это...",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Back-end платформа",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "фреймворк",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "MVC-фреймворк",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "JavaScript библиотека",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ball": 2,
+    "title": "Как много компонентов может быть на сайте?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Неограниченное количество",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Не более 50",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Не более 100",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "Не более 300",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ball": 2,
+    "title": "Где правильно создан компонент?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "React.Component {}",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "class App extends Component {}",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "class App extends React.Component {}",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "class App {}",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ball": 2,
+    "title": "Сколько родительских HTML тегов может быть выведено в React JS компоненте?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Не более 3",
+        "abvg": "А"
+      },
+      {
+        "tuura": true,
+        "text": "Всегда 1",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Неограниченное количество",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Неограниченное количество",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "ball": 2,
+    "title": "Куда можно встроить готовый код из метода render()?",
+    "test": [
+      {
+        "tuura": true,
+        "text": "В любой тег",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "В div или же в span",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Только в тег, у которого есть id",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Только в div",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "От какого класса идет наследование всех компонентов?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Component",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "ComponentReact",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "React.Component",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "ReactComponent",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "ball": 2,
+    "title": "комментариев",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Однострочные",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "вышеперечисленное",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Многострочные",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "ball": 2,
+    "title": "комментариев",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Однострочные",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "вышеперечисленное",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Многострочные",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "ball": 2,
+    "title": "комментариев",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Однострочные",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "вышеперечисленное",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Многострочные",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "ball": 2,
+    "title": "комментариев",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Однострочные",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "вышеперечисленное",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Многострочные",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  }
+]

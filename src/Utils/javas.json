@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "ball": 2,
+    "title": "JavaScript имеет следующий тип комментариев.",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Однострочные комментарии",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Все вышеперечисленное",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "Многострочные комментарии",
+        "abvg": "Г"
+      },
+      {
+        "tuura": true,
+        "text": "Ни один из вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ball": 2,
+    "title": "Что из перечисленного считается концом однострочного комментария?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Конец строки ",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Точка с запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "Конец инструкции",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Ни один из вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ball": 2,
+    "title": "Что из перечисленного не является оператором составного присваивания?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "===",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "+=",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "<<=",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": ">>=",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ball": 2,
+    "title": "Если строка не может быть преобразована в число, будет возвращено _____",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Infinite",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Zero",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "NaN",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Null",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ball": 2,
+    "title": "Во время сложения двух чисел предположим, что одно из чисел - NaN, какой будет результат?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Infinite",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Zero",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "NaN",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Null",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ball": 2,
+    "title": "Переменная может одновременно содержать _____ значений.",
+    "test": [
+      {
+        "tuura": false,
+        "text": "Одно",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "Несколько",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "Два",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "Ни один из вышеперечисленных",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "ball": 2,
+    "title": "После какого HTML тега нужно вставить JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "<javascript>",
+        "abvg": "А"
+      },
+      {
+        "tuura": true,
+        "text": "<script>",
+        "abvg": "В"
+      },
+      {
+        "tuura": false,
+        "text": "<js>",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "<scripting>",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "Где можно использовать JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "серверные приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное программное обеспечение",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "веб-приложения",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "Д"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ball": 2,
+    "title": "JavaScript?",
+    "test": [
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "А"
+      },
+      {
+        "tuura": false,
+        "text": "запятой",
+        "abvg": "В"
+      },
+      {
+        "tuura": true,
+        "text": "прикладное",
+        "abvg": "Г"
+      },
+      {
+        "tuura": false,
+        "text": "приложения",
+        "abvg": "Д"
+      }
+    ]
+  }
+]
